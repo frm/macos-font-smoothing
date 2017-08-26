@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "macOS Font Smoothing",
+  "version": "0.1.0",
+  "description": "macOS has better font smoothing on Safari. This brings it to Chrome",
+
+  "content_scripts": [{
+    "js": ["font_smoothing.js"],
+    "matches": ["<all_urls>"]
+  }]
+
+}
