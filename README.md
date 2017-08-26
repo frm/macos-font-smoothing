@@ -29,10 +29,11 @@ extension.
 
 Feel free to use them if they suit you better.
 
-
 ## Installing
 
-Click [here]() to download the latest version.
+Click [here](https://github.com/fribmendes/macos-font-smoothing/releases/tag/v1.0) and download the latest `.crx` file.
+
+Then visit `chrome://extension`, drag and drop the `.crx` file to install it.
 
 Chrome Webstore link soon.
 
@@ -45,7 +46,7 @@ There is however a TODO list if you want to lend a hand:
 
 ### Roadmap
 
-- [] Add an icon
-- [] Allow a "force" mode which *always* sets the `font-smoothing`, regardless
+- [  ] Add an icon
+- [  ] Allow a "force" mode which *always* sets the `font-smoothing`, regardless
   of the previous website setting.
-- [] Allow users to whitelist websites.
+- [  ] Allow users to whitelist websites.
